@@ -7,6 +7,9 @@ Tutorial: https://www.youtube.com/watch?v=FiGmAI5e91M
 ## Usage
 
 ```
+# Create .env file
+REACT_APP_PIXABAY_API_KEY=<key>
+
 # Install dependencies
 npm install
 
